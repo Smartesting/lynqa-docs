@@ -1,0 +1,14 @@
+:root {
+    /* Lynqa colors */
+    --lynqa-primary-color: #454af4;
+    --lynqa-secondary-color: #956cEc;
+    --lynqa-background-color: #0f0f2e;
+
+
+    /* Base theme overrides */
+    --theme-color: var(--lynqa-secondary-color);
+    --cover-background-color: var(--lynqa-background-color);
+    --cover-background-image: none;
+    
+    --base-font-size: 18px;
+}

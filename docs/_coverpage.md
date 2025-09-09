@@ -1,10 +1,10 @@
 <!-- _coverpage.md -->
 
-![logo](_media/logo.svg)
+![logo](./_media/logo-smartesting.svg)
 
 # Lynqa <small>0.1</small>
 
-> Baseline here.
+Baseline here.
 
 - Benefit 1
 - Benefit 2
