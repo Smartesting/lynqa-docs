@@ -1,9 +1,12 @@
-# Accueil
+# Bienvenue
 
 > Cette documentation est incroyable.
 
-## Un titre plus petit
+## Qu'est-ce que Lynqa ?
 
-## Un autre titre plus petit
+Lynqa est une plateforme puissante d'exécution de tests qui vous permet de :
+- Lancer et gérer des exécutions de tests
+- Contrôler les exécutions en temps réel
+- Intégrer avec XRay pour la gestion des résultats de tests
+- Surveiller le progrès et les résultats des tests
 
-### Un titre minuscule

@@ -12,3 +12,15 @@
     
     --base-font-size: 18px;
 }
+
+.app-nav.no-badge {
+    margin-left: 0;
+}
+
+.app-nav.no-badge>p {
+    margin: 0;
+}
+
+.app-nav.no-badge>p>img {
+    height: 40px;
+}

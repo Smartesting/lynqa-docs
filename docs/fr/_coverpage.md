@@ -1,7 +1,5 @@
 <!-- _coverpage.md -->
 
-![logo](../_media/logo-smartesting.svg)
-
 # Lynqa <small>0.1</small>
 
 Baseline ici.
