@@ -1,14 +1,15 @@
 :root {
     /* Lynqa colors */
-    --lynqa-primary-color: #454af4;
-    --lynqa-secondary-color: #956cEc;
+    --lynqa-primary-color: #38349b;
+    --lynqa-secondary-color: #cdb6ed;
+    --lynqa-third-color: #206fb6;
     --lynqa-background-color: #0f0f2e;
-
+    --lynqa-gradient-color: linear-gradient(80deg, var(--lynqa-background-color), var(--lynqa-primary-color),
+        var(--lynqa-third-color));
 
     /* Base theme overrides */
     --theme-color: var(--lynqa-secondary-color);
-    --cover-background-color: var(--lynqa-background-color);
-    --cover-background-image: none;
+    --cover-background-image: var(--lynqa-gradient-color);
     
     --base-font-size: 18px;
 }
