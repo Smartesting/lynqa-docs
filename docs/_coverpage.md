@@ -1,9 +1,6 @@
 <!-- _coverpage.md -->
 
-![Lynqa Logo](./_media/logo-lynqa-full.png) <small>0.1</small>
+![Lynqa Logo](./_media/logo-lynqa-full.png)<small>v0.1</small>
 
-Baseline here.
+<div class="baseline">&lt;&gt;&nbsp;<span class="baseline-colored">no</span> code, <span class="baseline-colored">no</span> no-code&nbsp;&lt;/&gt;</div>
 
-- Benefit 1
-- Benefit 2
-- Benefit 3

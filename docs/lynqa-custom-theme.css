@@ -4,24 +4,28 @@
     --lynqa-secondary-color: #cdb6ed;
     --lynqa-third-color: #206fb6;
     --lynqa-background-color: #0f0f2e;
-    --lynqa-gradient-color: linear-gradient(80deg, var(--lynqa-background-color), var(--lynqa-primary-color),
-        var(--lynqa-third-color));
-
+    --lynqa-content-background-color: #0f0f2eee;
+    --lynqa-gradient-color: linear-gradient(66deg, var(--lynqa-background-color) 42%, var(--lynqa-primary-color) 90%,
+        var(--lynqa-third-color) 100%);
+    
     /* Base theme overrides */
     --theme-color: var(--lynqa-secondary-color);
     --cover-background-image: var(--lynqa-gradient-color);
-    
+    --sidebar-background-color: var(--lynqa-background-color);
+    --base-background-color: var(--lynqa-content-background-color);
     --base-font-size: 18px;
 }
 
-.app-nav.no-badge {
-    margin-left: 0;
+.cover .baseline {
+    text-align: right;
+    font-size: 1.5em;
+    color: white;
 }
 
-.app-nav.no-badge>p {
-    margin: 0;
+.cover .baseline-colored {
+    color: var(--lynqa-secondary-color);
 }
 
-.app-nav.no-badge>p>img {
-    height: 40px;
+.sidebar {
+    background-color: var(--sidebar-background-color);
 }
