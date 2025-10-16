@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![Lynqa Logo](_media/logo-lynqa-full.png) <small>0.1</small>
+![Lynqa Logo](./_media/logo-lynqa-full.png) <small>0.1</small>
 
 Baseline here.
 
