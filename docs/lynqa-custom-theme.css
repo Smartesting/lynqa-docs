@@ -26,6 +26,14 @@
     color: var(--lynqa-secondary-color);
 }
 
+.cover .doc-version {
+    position: absolute;
+    top: 163px;
+    right: -20px;
+    font-size: 0.8em;
+    color: var(--lynqa-secondary-color);
+}
+
 .sidebar {
     background-color: var(--sidebar-background-color);
 }
