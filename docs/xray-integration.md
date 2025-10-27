@@ -6,14 +6,12 @@ This section explains how to save test results from Lynqa executions to Xray.
 
 XRay integration allows you to automatically save test execution results from Lynqa to your XRay project, enabling better test management, reporting, and traceability.
 
-## Saving Results to XRay
-
 You can save test results to XRay from two different levels in the Lynqa interface:
 
 1. **From a Test Run Session** - Save all test results from an entire session at once
 2. **From an Individual Test Run** - Save results for a specific test run
 
-### Save from Test Run Session
+## Save from Test Run Session
 
 When viewing a test run session detail page:
 
@@ -25,7 +23,7 @@ For each individual test in the session, you can see:
 
 The "Save to Xray" button allows you to publish the test results from Lynqa to your XRay project. You can also click "Open" to drill down into the test run details.
 
-### Save from Individual Test Run
+## Save from Individual Test Run
 
 When viewing a specific test run detail page:
 
@@ -38,7 +36,7 @@ At the top right of the test run, you'll find:
 
 Click "Save to Xray" to publish the test results. Once saved, the timestamp will update to show the latest save time.
 
-### View Results in XRay
+## View Results in XRay
 
 After saving results to XRay, you can view them directly in your XRay project:
 
@@ -53,6 +51,15 @@ Click this button to open the published test results in XRay. In XRay, you can s
 - **Test details** - The complete test information and references
 - **Evidence** - Screenshots and artifacts from the test execution
 - **Traceability** - Links to requirements and other test artifacts
+
+## View Assertions
+
+When viewing test results in XRay, you can expand individual steps to see the detailed assertions that were performed during test execution:
+
+![View Assertions in XRay](_media/xray-integration/xray-integration-show-assertions.png)
+
+This provides visibility into the specific checks and validations that were performed at each step, helping with debugging and verification of test coverage.
+
 
 ## Next Steps
 

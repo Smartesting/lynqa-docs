@@ -6,14 +6,12 @@ Cette section explique comment sauvegarder les résultats de test des exécution
 
 L'intégration XRay vous permet de sauvegarder automatiquement les résultats d'exécution de test de Lynqa vers votre projet XRay, permettant une meilleure gestion des tests, des rapports et une traçabilité.
 
-## Sauvegarder les résultats vers XRay
-
 Vous pouvez sauvegarder les résultats de test vers XRay à deux niveaux différents dans l'interface Lynqa :
 
 1. **Depuis une session d'exécution de test** - Sauvegardez tous les résultats de test d'une session entière en une fois
 2. **Depuis une exécution de test individuelle** - Sauvegardez les résultats pour un test spécifique
 
-### Sauvegarder depuis une session d'exécution de test
+## Sauvegarder depuis une session d'exécution de test
 
 Lors de la visualisation de la page de détail d'une session d'exécution de test :
 
@@ -25,7 +23,7 @@ Pour chaque test individuel de la session, vous pouvez voir :
 
 Le bouton "Save to Xray" vous permet de publier les résultats de test de Lynqa vers votre projet XRay. Vous pouvez également cliquer sur "Ouvrir" pour explorer les détails de l'exécution de test.
 
-### Sauvegarder depuis une exécution de test individuelle
+## Sauvegarder depuis une exécution de test individuelle
 
 Lors de la visualisation de la page de détail d'une exécution de test spécifique :
 
@@ -38,7 +36,7 @@ En haut à droite de l'exécution de test, vous trouverez :
 
 Cliquez sur "Save to Xray" pour publier les résultats de test. Une fois sauvegardé, l'horodatage sera mis à jour pour afficher le dernier moment de sauvegarde.
 
-### Voir les résultats dans XRay
+## Voir les résultats dans XRay
 
 Après avoir sauvegardé les résultats vers XRay, vous pouvez les voir directement dans votre projet XRay :
 
@@ -53,6 +51,14 @@ Cliquez sur ce bouton pour ouvrir les résultats de test publiés dans XRay. Dan
 - **Détails du test** - Les informations complètes du test et les références
 - **Preuves** - Les captures d'écran et artefacts de l'exécution du test
 - **Traçabilité** - Les liens vers les exigences et autres artefacts de test
+
+## Voir les assertions
+
+Lors de la visualisation des résultats de test dans XRay, vous pouvez développer des étapes individuelles pour voir les assertions détaillées qui ont été effectuées pendant l'exécution du test :
+
+![Voir les assertions dans XRay](../_media/xray-integration/xray-integration-show-assertions.png)
+
+Cela fournit une visibilité sur les vérifications et validations spécifiques qui ont été effectuées à chaque étape, aidant au débogage et à la vérification de la couverture des tests.
 
 ## Prochaines étapes
 

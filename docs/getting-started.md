@@ -50,7 +50,7 @@ Before you can start using Lynqa, you'll need to create an account and generate 
 
 4. **Configure Lynqa API key**
 
-   - Choose between providing Lynqa API Key at a System level, or personal level.
+   - Choose between providing Lynqa API Key at a System level, project level or personal level.
 
    ![Lynqa App API Key configuration](_media/getting-started/lynqa-jira-app-configure-lynqa-key.png)
 

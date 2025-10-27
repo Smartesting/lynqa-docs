@@ -49,7 +49,7 @@ Avant de pouvoir commencer à utiliser Lynqa, vous devrez créer un compte et g�
 
 4. **Configurer la clé API Lynqa**
 
-   - Choisissez entre fournir la clé API Lynqa au niveau Système, ou au niveau personnel.
+   - Choisissez entre fournir la clé API Lynqa au niveau système, projet ou au niveau personnel.
 
    ![Configuration de la clé API de l'application Lynqa](../_media/getting-started/lynqa-jira-app-configure-lynqa-key.png)
 
