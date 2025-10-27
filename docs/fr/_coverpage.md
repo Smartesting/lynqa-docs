@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![Lynqa Logo](../_media/logo-lynqa-full.png)
+![Lynqa Logo](../_media/logo-lynqa-full-beta.png)
 
 <div class="doc-version">Documentation v0.1</div>
 
